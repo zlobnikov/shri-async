@@ -1,0 +1,26 @@
+{
+  "name": "shri-async",
+  "version": "1.0.0",
+  "description": "Реализовать функцию reduce с использованием асинхронного API из объекта Homework (см. playground.js)",
+  "main": "playground.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlobnikov/shri-async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zlobnikov/shri-async/issues"
+  },
+  "homepage": "https://github.com/zlobnikov/shri-async#readme",
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "2.4.1"
+  }
+}

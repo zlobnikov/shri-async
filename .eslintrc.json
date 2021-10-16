@@ -9,8 +9,15 @@
         "ecmaVersion": 12
     },
     "rules": {
+        "prettier/prettier": [
+            "error",
+            {
+                "endOfLine": "auto",
+                "singleQuote": true
+            }
+        ]
     },
     "plugins": [
-      "prettier"
+        "prettier"
     ]
 }
